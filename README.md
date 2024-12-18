@@ -1,4 +1,4 @@
-Go to this [Wiki](https://github.com/SantiagoBH/5G-SA-Network-with-Open5gs-and-srsRAN/wiki) to get all information!
+Go to this [Wiki](https://github.com/JsCc-Electro/5G-SA-Network-Open5gs-srsRAN/wiki) to get all information!
 
 # 5G-SA-Network-with-Open5gs-and-srsRAN
 In the current era of mobile communications, the demand for faster, reliable, and efficient connectivity has led to the development of fifth-generation (5G) networks.
